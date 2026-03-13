@@ -1,0 +1,33 @@
+{
+  "name": "Splatoon",
+  "icon": "https://cdn2.steamgriddb.com/icon/3eb414bf1c2a66a09c185d60553417b8/32/256x256.png",
+  "titleIds": [
+    "0005000010162B00",
+    "0005000010176900",
+    "0005000010176A00"
+  ],
+  "mods": [
+    {
+      "id": "squidward",
+      "name": "Splatoon: Squidward Expansion v2",
+      "type": "mod",
+      "version": "2.0.0",
+      "author": "kalomaze",
+      "description": "Comes with two alternate versions: one with a invisible shoes and shirt for pure squidward goodness: or, a version with just an invisible shirt that allows you to have feet that dont clip oddly. Skin color is always the same. Works online, goes over male inkling.",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/220-90_5b08c365c0766.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5b08c365c0766.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5b08c47788da0.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5b08c4856b662.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5b08c4c876bb2.jpg"
+      ],
+      "download": "https://gamebanana.com/dl/383749",
+      "releaseDate": "2018-05-26",
+      "license": "CC BY-NC",
+      "tags": ["skin", "funny"],
+      "fileSize": 30245527,
+      "requirements": [],
+      "changelog": "2.0.0 - full mod remake"
+    }
+  ]
+}
