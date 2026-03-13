@@ -1,8 +1,8 @@
 {
   "formatVersion": 1,
-  "name": "CupStore Template Repo",
-  "description": "Official template repository for CupStore. Fork this to host your own mods.",
-  "author": "your-name",
+  "name": "Funtum's CoffeeShop Repo",
+  "description": "CoffeeShop repository for mods that Funtum likes and for others to enjoy!",
+  "author": "Funtum",
   "version": "1",
   "games": [
     {
