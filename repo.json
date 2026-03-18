@@ -8,6 +8,10 @@
     {
       "id": "splatoon",
       "path": "games/splatoon/game.json"
+    },
+    {
+      "id": "splatoon",
+      "path": "games/nsmbu/game.json"
     }
   ]
 }
