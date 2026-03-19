@@ -83,6 +83,30 @@
       "license": "CC BY-NC",
       "tags": ["skin"],
       "fileSize": 1109799
+    },
+    {
+      "id": "Crewmate+",
+      "name": "Crewmate+",
+      "type": "mod",
+      "version": "1.1.0",
+      "author": "St!nktofu",
+      "description": "This mod adds the Crewmate from Among Us over Shy Guy. It includes: + A model + UI icons (menu, minimap and race results) + UI text (menu and race results) + An emblem (on kart and touchscreen horn button) + Sound effects (character select screen, horn and Super Horn)",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/6323554c73982.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/6323554c73982.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212a074940.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212b561a4b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212c7abc1b.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212d5072d4.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212e8b788c.jpg",
+        "https://images.gamebanana.com/img/ss/mods/632212fb20387.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/Crewmate%2B/Crewmate+.zip",
+      "releaseDate": "2022-11-06",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 10106271,
+      "changelog": "1.1.0 - Horn Emblems"
     }
   ]
 }
