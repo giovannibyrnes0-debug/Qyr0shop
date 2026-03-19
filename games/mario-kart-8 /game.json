@@ -27,6 +27,26 @@
       "license": "CC BY-NC",
       "tags": ["skin"],
       "fileSize": 1464664
+    },
+    {
+      "id": "spongebobmk8",
+      "name": "Spongebob joins Mario Kart!",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "kalomaze",
+      "description": "I'm ready! I'm ready! I'm ready! I'm ready!",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/5acea99f84ff7.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/mods/5acea99f84ff7.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5aceaec889b71.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5aceaeec5e0b0.jpg",
+        "https://images.gamebanana.com/img/ss/mods/5aceaf03b6aa0.jpg"
+      ],
+      "download": "https://github.com/ItsFuntum/funtum-coffeeshop-repo/releases/download/spongebobmk8/spongebobmk8.zip",
+      "releaseDate": "2018-04-12",
+      "license": "CC BY-NC",
+      "tags": ["skin"],
+      "fileSize": 1939723
     }
   ]
 }
