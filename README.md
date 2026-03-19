@@ -10,4 +10,5 @@ CoffeeShop repository for mods that Funtum likes and for others to enjoy!
 | Mario Kart 8 | Dr. Doofenshmirtz | RedYoshiKart | https://gamebanana.com/mods/378815 |
 | Mario Kart 8 | Crewmate+ | St!nktofu | https://gamebanana.com/mods/401743 |
 | New Super Mario Bros. U | Cloudy Super Mario Bros. U 2 | Rimea | https://gamebanana.com/mods/378732 |
+| New Super Mario Bros. U | NSMBU but the floor is lava | BowManakin | https://gamebanana.com/mods/352599 |
 | Splatoon | Splatoon: Squidward Expansion v2 | kalomaze | https://gamebanana.com/mods/250471 |
