@@ -8,6 +8,29 @@
   ],
   "mods": [
     {
+      "id": "mkgenerations",
+      "name": "Mario Kart Generations",
+      "type": "modpack",
+      "version": "1.3.1",
+      "author": "UNREALII-",
+      "description": "The Newest Mario kart 8 Modpack! Mario Kart Generations includes: Custom Menu's + 48 Custom Tracks + Custom Music",
+      "thumbnail": "https://images.gamebanana.com/img/ss/wips/530-90_6474e711986c9.jpg",
+      "screenshots": [
+        "https://images.gamebanana.com/img/ss/wips/100-90_662081511af92.jpg",
+        "https://images.gamebanana.com/img/ss/wips/100-90_662081517b183.jpg",
+        "https://images.gamebanana.com/img/ss/wips/100-90_662081513c3ab.jpg",
+        "https://images.gamebanana.com/img/ss/wips/100-90_6620815041d9e.jpg",
+        "https://images.gamebanana.com/img/ss/wips/100-90_662081526c9f9.jpg",
+        "https://images.gamebanana.com/img/ss/wips/100-90_661c201f6a3be.jpg"
+      ],
+      "download": "https://github.com/GrouxCL/grouxcl-coffeeshop-repo/releases/download/mkgenerations/MarioKartGenerations.zip",
+      "releaseDate": "2024-04-18",
+      "license": "CC BY-NC",
+      "tags": ["ui", "skin", "music", "course"],
+      "fileSize": 2810000000
+    },
+    
+    {
       "id": "squidwardmariokart",
       "name": "Squidward joins Mario Kart!",
       "type": "mod",
